@@ -1,0 +1,2 @@
+def new_attr_accessor
+end
